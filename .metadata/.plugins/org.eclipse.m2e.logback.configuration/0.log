@@ -1,0 +1,30 @@
+2020-05-26 19:01:41,337 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-26 19:02:13,930 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AppointmentManagement:AppointmentManagement:0.0.1-SNAPSHOT @ C:\Users\sapnaka\Desktop\AppointmentManagement\pom.xml.
+2020-05-26 19:02:13,930 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AppointmentManagement:AppointmentManagement:0.0.1-SNAPSHOT @ C:\Users\sapnaka\Desktop\AppointmentManagement\pom.xml.
+2020-05-26 19:02:16,777 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-26 19:02:16,826 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sapnaka\Desktop\AppointmentManagement\src\main\resources
+2020-05-26 19:02:16,829 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-26 19:02:16,836 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sapnaka\Desktop\AppointmentManagement\src\test\resources
+2020-05-26 19:02:20,398 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AppointmentManagement:AppointmentManagement:0.0.1-SNAPSHOT @ C:\Users\sapnaka\Desktop\AppointmentManagement\pom.xml.
+2020-05-26 19:02:21,047 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-26 19:02:21,059 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sapnaka\Desktop\AppointmentManagement\src\main\resources
+2020-05-26 19:02:21,062 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-26 19:02:21,075 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sapnaka\Desktop\AppointmentManagement\src\test\resources
+2020-05-26 19:02:22,130 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-26 19:02:22,191 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sapnaka\Desktop\AppointmentManagement\src\main\resources
+2020-05-26 19:02:22,193 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-26 19:02:22,200 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sapnaka\Desktop\AppointmentManagement\src\test\resources
+2020-05-26 19:04:04,771 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-26 19:04:06,126 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AppointmentManagement:AppointmentManagement:0.0.1-SNAPSHOT @ C:\Users\sapnaka\Desktop\AppointmentManagement\pom.xml.
+2020-05-26 19:04:07,038 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AppointmentManagement/src
+2020-05-26 19:04:07,039 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /AppointmentManagement/src/test/java because it overlaps with /AppointmentManagement/src
+2020-05-26 19:04:07,673 [Worker-7: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AppointmentManagement
+2020-05-26 19:04:07,680 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-05-26 19:04:07,900 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-26 19:04:07,987 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sapnaka\Desktop\AppointmentManagement\src\main\resources
+2020-05-26 19:04:07,990 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-26 19:04:08,031 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sapnaka\Desktop\AppointmentManagement\src\test\resources
+2020-05-26 19:04:08,032 [Worker-9: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AppointmentManagement
+2020-05-26 19:04:08,033 [Worker-9: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AppointmentManagement
+2020-05-26 19:04:08,037 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2020-05-26 19:04:08,070 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
